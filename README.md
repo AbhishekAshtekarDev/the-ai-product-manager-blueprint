@@ -47,7 +47,7 @@ Every interview round has its own chapter, from product sense and metrics to tec
 
 | Part | Title | Chapters | What you get |
 |---|---|---|---|
-| I | Understanding the AI Product Manager Role | Chapters 1 to 8 | What the job really is, what AI PMs do all day, where the career goes, and how the role differs from a general PM. |
+| I | Understanding the AI Product Manager Role | Chapters 1 to 8 | What the job really is, what AI product managers do all day, where the career goes, and how the role differs from a general PM. |
 | II | The Degree Question | Chapters 9 to 11 | The degree path and the no-degree path, laid out side by side, with the no-degree route as the focus of the book. |
 | III | Life, Future, and Reality of This Career | Chapters 12 to 14 | A full day in the role, where it is heading, and the parts that are hard. |
 | IV | The Salary Reality | Chapters 15 to 17 | Pay by experience level and by country: the US, India, the UK, Canada and Germany. |

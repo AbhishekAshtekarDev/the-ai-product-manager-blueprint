@@ -4,7 +4,7 @@ The complete table of contents of **[The AI Product Manager Blueprint](https://t
 
 ## Part I: Understanding the AI Product Manager Role
 
-What the job really is, what AI PMs do all day, where the career goes, and how the role differs from a general PM.
+What the job really is, what AI product managers do all day, where the career goes, and how the role differs from a general PM.
 
 1. What Is AI Product Management?
 2. Who Is an AI Product Manager? (The Traits That Define the Role)
