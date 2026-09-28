@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you reference this roadmap, please cite the book."
+type: software
+title: "The AI Product Manager Blueprint: official companion"
+authors:
+  - family-names: Ashtekar
+    given-names: Abhishek
+    website: "https://theaiproductmanagerblueprint.com/about/"
+url: "https://abhishekashtekardev.github.io/the-ai-product-manager-blueprint/"
+repository: "https://github.com/AbhishekAshtekarDev/the-ai-product-manager-blueprint"
+license: CC-BY-4.0
+keywords:
+  - AI product manager
+  - how to become an AI product manager
+  - AI product management book
+  - product management career
+preferred-citation:
+  type: book
+  title: "The AI Product Manager Blueprint: Become a $200K+ AI Product Manager Without a Degree (Zero To Hired)"
+  authors:
+    - family-names: Ashtekar
+      given-names: Abhishek
+  year: 2026
+  isbn: "9798189716089"
+  url: "https://theaiproductmanagerblueprint.com/"
